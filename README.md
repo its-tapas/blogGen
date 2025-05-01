@@ -170,7 +170,6 @@ Contributions are welcome! If you have ideas, suggestions, or improvements:
 
 > ⭐ If you found this useful, please star the repo!
 
----
 
 ## 🌐 Author & Socials
 
@@ -180,19 +179,18 @@ Made with ❤️ by **Tapas Singhal**
 - 💼 [LinkedIn](https://www.linkedin.com/in/tapas-singhal/)
 - 🧠 [GitHub](https://github.com/its-tapas)
 
----
 
 ## Dev.to Blog 
 
 > Blog : [dev.to](https://dev.to/aws-builders/end-to-end-generative-ai-mini-project-on-aws-using-aws-bedrock-aws-lambda-api-gateway-and-s3-4fp4)
 
----
+
 
 
 ## 📂 Project Repository
 
 > 🔗 GitHub: [https://github.com/its-tapas/blogGen](https://github.com/its-tapas/blogGen)
 
----
+
 
 Thanks for visiting! 🙌
