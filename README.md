@@ -2,6 +2,8 @@
 
 This project is a serverless **Blog Generator Bot** built using **Amazon Bedrock**, **AWS Lambda**, **S3**, and **API Gateway**. It uses the **LLaMA3 model** in Bedrock to generate professional blogs based on the topic provided via a POST request.
 
+![Architecture](https://github.com/user-attachments/assets/10b86660-f7b6-47d0-9a31-b08bbd24d83f)
+
 ---
 
 ## 🔧 Technologies Used
