@@ -32,6 +32,7 @@ This project is a serverless **Blog Generator Bot** built using **Amazon Bedrock
 {
   "blog_topic": "The Future of Artificial Intelligence in Education"
 }
+```
 ---
 
 ## 📤 Example Output (S3)
