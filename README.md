@@ -147,9 +147,7 @@ Contributions are welcome! If you have ideas, suggestions, or improvements:
 
 > ⭐ If you found this useful, please star the repo!
 
-## 🌐 Author & Socials
-
-Made with ❤️ by **Tapas Singhal**
+## 🌐 Socials
 
 - 🔗 [Portfolio](https://tapasenjinia.me)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tapas-singhal/)
