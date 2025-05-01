@@ -1,5 +1,7 @@
 # 📝 Blog Generator Bot using Amazon Bedrock
 
+Check Complete step by step blog here: https://dev.to/aws-builders/end-to-end-generative-ai-mini-project-on-aws-using-aws-bedrock-aws-lambda-api-gateway-and-s3-4fp4
+
 This project is a serverless **Blog Generator Bot** built using **Amazon Bedrock**, **AWS Lambda**, **S3**, and **API Gateway**. It uses the **LLaMA3 model** in Bedrock to generate professional blogs based on the topic provided via a POST request.
 <div align="center">
 <img alt="newlogo" src="https://github.com/user-attachments/assets/10b86660-f7b6-47d0-9a31-b08bbd24d83f">
@@ -179,6 +181,13 @@ Made with ❤️ by **Tapas Singhal**
 - 🧠 [GitHub](https://github.com/its-tapas)
 
 ---
+
+## Dev.to Blog 
+
+> Blog : [dev.to](https://dev.to/aws-builders/end-to-end-generative-ai-mini-project-on-aws-using-aws-bedrock-aws-lambda-api-gateway-and-s3-4fp4)
+
+---
+
 
 ## 📂 Project Repository
 
